@@ -1,3 +1,4 @@
+# Git auto-sync configured
 # Environment variables — NEVER commit to git
 .env
 .env.*
