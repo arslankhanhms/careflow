@@ -1,0 +1,1 @@
+ALTER TABLE public.blood_usages ADD COLUMN IF NOT EXISTS product text NOT NULL DEFAULT 'whole_blood';
